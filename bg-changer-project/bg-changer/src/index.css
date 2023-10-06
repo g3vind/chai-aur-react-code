@@ -6,9 +6,13 @@
   display: flex;
   flex-direction: row;
   justify-content: center;
+  align-items: center;
   margin-top: 90vh;
   padding: 6px;
   background-color: white;
+  border-radius: 20px;
+  width: fit-content;
+  text-align: center;
 }
 .btn {
   background-color: red;
@@ -26,7 +30,6 @@
   color: black;
 }
 .btn {
-  /* Your existing styles here */
   background-color: initial;
   transition: transform 0.2s ease, background-color 0.2s ease;
 }
@@ -35,5 +38,16 @@
   background-color: white;
   font-size: larger;
   color: black;
-  transform: scale(1.1); /* Scale the button slightly on hover */
+  transform: scale(1.1);
+}
+
+@media (max-width: 768px) {
+  .main {
+    margin: 0px;
+    max-height: 100vh;
+    flex-direction: row;
+    flex-wrap: wrap;
+    /* margin-bottom: 90px; */
+    width: 90vw;
+  }
 }
