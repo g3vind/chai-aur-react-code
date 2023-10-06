@@ -10,7 +10,10 @@ const Counter = () => {
         setCounter(counter - 1)
     }
     function refreshWindow() {
-        window.location.reload();
+        // if counter is not 0 , it will not refresh
+        if (counter != 0) {
+            window.location.reload();
+        }
     }
     return (
         <>
