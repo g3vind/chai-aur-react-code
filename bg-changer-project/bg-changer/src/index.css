@@ -1,0 +1,39 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.main {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  margin-top: 90vh;
+  padding: 6px;
+  background-color: white;
+}
+.btn {
+  background-color: red;
+  height: 3rem;
+  width: 5rem;
+  border-radius: 20px;
+  border: none;
+  color: white;
+  margin: 6px;
+  cursor: pointer;
+}
+.btn:hover {
+  background-color: white;
+  font-size: larger;
+  color: black;
+}
+.btn {
+  /* Your existing styles here */
+  background-color: initial;
+  transition: transform 0.2s ease, background-color 0.2s ease;
+}
+
+.btn:hover {
+  background-color: white;
+  font-size: larger;
+  color: black;
+  transform: scale(1.1); /* Scale the button slightly on hover */
+}
