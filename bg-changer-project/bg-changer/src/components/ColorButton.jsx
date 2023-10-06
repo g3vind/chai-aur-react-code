@@ -1,10 +1,7 @@
-import React, { useState } from 'react';
+import React from 'react';
 
 const ColorButton = (props) => {
-    const [bgColor, setBgColor] = useState('');
-
     function handleBgColor() {
-        setBgColor(props.color);
         document.body.style.backgroundColor = props.color;
     }
 
@@ -16,5 +13,4 @@ const ColorButton = (props) => {
         </>
     );
 }
-
 export default ColorButton;
