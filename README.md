@@ -6,18 +6,18 @@ Welcome to the React Projects Repository! This repository contains a collection 
 
 **Project 1: Background Changer**
 - Description: A simple background changing application built with React.
-- [Live Demo](https://bg-changerr.netlify.app/)
-- [Repository](https://github.com/g3vind/chai-aur-react-code/tree/main/bg-changer-project/bg-changer)
+- <a href="https://bg-changerr.netlify.app/" target="_blank">Live Demo</a>
+- <a href="https://github.com/g3vind/chai-aur-react-code/tree/main/bg-changer-project/bg-changer" target="_blank">Repository</a>
 
 **Project 2: Password Generator**
-- Description: A application for generating strong passwords
-- [Live Demo](https://passwordifyy.netlify.app)
-- [Repository](https://github.com/g3vind/chai-aur-react-code/tree/main/password-generator)
+- Description: An application for generating strong passwords.
+- <a href="https://passwordifyy.netlify.app" target="_blank">Live Demo</a>
+- <a href="https://github.com/g3vind/chai-aur-react-code/tree/main/password-generator" target="_blank">Repository</a>
 
 **Project 3: Website (React Router DOM)**
-- Description: A simple website
-- [Live Demo](https://react-router-dom-example.netlify.app)
-- [Repository](https://github.com/g3vind/chai-aur-react-code/tree/main/react-router-dom)
+- Description: A simple website.
+- <a href="https://react-router-dom-example.netlify.app" target="_blank">Live Demo</a>
+- <a href="https://github.com/g3vind/chai-aur-react-code/tree/main/react-router-dom" target="_blank">Repository</a>
 
 
 
