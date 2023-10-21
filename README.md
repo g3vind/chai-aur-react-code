@@ -14,7 +14,7 @@ Welcome to the React Projects Repository! This repository contains a collection 
 - [Live Demo](https://passwordifyy.netlify.app)
 - [Repository](https://github.com/g3vind/chai-aur-react-code/tree/main/password-generator)
 
-  **Project 2: Website (React Router DOM)**
+**Project 3: Website (React Router DOM)**
 - Description: A simple website
 - [Live Demo](react-router-dom-example.netlify.app)
 - [Repository](https://github.com/g3vind/chai-aur-react-code/tree/main/react-router-dom)
